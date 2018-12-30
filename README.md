@@ -20,4 +20,4 @@ This package was written back in 2014 and was intended for distribution on CRAN.
 
 References
 ----------
-[1] 12 (1998) 77–81.
+1. [Regression coefficients in multilinear PLS](https://onlinelibrary.wiley.com/doi/10.1002/%28SICI%291099-128X%28199801/02%2912%3A1%3C77%3A%3AAID-CEM496%3E3.0.CO%3B2-7), Sijmen de Jong, Journal of Chemometrics, 12 (1998), 77–81.
