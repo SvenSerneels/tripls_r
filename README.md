@@ -22,6 +22,6 @@ This package was written back in 2014 and was intended for distribution on CRAN.
 
 References
 ----------
-1. [Aspects of the analysis of three-way data](https://doi.org/10.1016/0169-7439(89)80114-5),Lars Ståhle, Chemometrics and Intelligent Laboratory Systems, 7 (1989), 95–100.
+1. [Aspects of the analysis of three-way data](https://doi.org/10.1016/0169-7439(89)80114-5), Lars Ståhle, Chemometrics and Intelligent Laboratory Systems, 7 (1989), 95–100.
 2. [Regression coefficients in multilinear PLS](https://onlinelibrary.wiley.com/doi/10.1002/%28SICI%291099-128X%28199801/02%2912%3A1%3C77%3A%3AAID-CEM496%3E3.0.CO%3B2-7), Sijmen de Jong, Journal of Chemometrics, 12 (1998), 77–81.
 3. [Case specific prediction intervals for tri-PLS1: The full local linearisation](https://doi.org/10.1016/j.chemolab.2011.05.002), Sven Serneels, Klaas Faber, Tim Verdonck, Pierre J. Van Espen, Chemometrics and Intelligent Laboratory Systems, 108 (2011), 93–99.
