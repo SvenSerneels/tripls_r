@@ -1,0 +1,10 @@
+Package: tripls
+Type: Package
+Title: Trilinear partial least squares regression
+Version: 1.0
+Date: 2014-04-18
+Author: Sven Serneels
+Maintainer: Sven Serneels <svenserneels@gmail.com>
+Description: This package provides a comprehensive set of functions to perform univariate trilinear partial least squares regression. It includes a cross-validation routine to tune the number of components, the regression estimator, a summary function, a predict function, an intervals function to compute prediction uncertainty, a routine to compute the jacobian matrices of the tri-PLS regression coefficients, as well as a plot function with various options.
+License: GNU Public software License
+Depends: MASS, ggplot2, grid, reshape
